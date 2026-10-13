@@ -1,202 +1,113 @@
-<div align="center">
+<h1 align="center">Hi folks 👋, I'm Kugan J</h1>
+<h3 align="center"> Entry-Level Data Analyst | Turning Raw Data into Business Decisions</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=KUGAN%20J&fontSize=80&fontColor=F2C811&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20SQL%20%E2%80%A2%20Python&descSize=22&descColor=00F5D4&descAlignY=60" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Kugan+from+Chennai;%F0%9F%93%8A+I+turn+raw+data+into+dashboards;%F0%9F%97%84%EF%B8%8F+SQL+%E2%9E%9C+Power+BI+%E2%9E%9C+Insights;%F0%9F%90%8D+Python+%7C+EDA+%7C+Machine+Learning;%F0%9F%9A%80+Open+to+Data+Analyst+roles" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-9b5de5?style=for-the-badge&labelColor=1a1a2e)](https://kugan-29.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kugan-j)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kugankarthik67@gmail.com)
-
-![Open](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Data_Analyst-00F5D4?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/📍_Chennai-Tamil_Nadu,_India-f15bb5?style=flat-square&labelColor=1a1a2e)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kugan-j/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kugankarthik67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://kugan-29.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## 📊 My Work in Numbers
+### 🧠 About Me
 
-<div align="center">
-
-![Records](https://img.shields.io/badge/Records_Analysed-4K+-F2C811?style=for-the-badge&labelColor=1a1a2e)
-![DAX](https://img.shields.io/badge/DAX_Measures-9-00F5D4?style=for-the-badge&labelColor=1a1a2e)
-![KPI](https://img.shields.io/badge/KPI_Cards-6-f15bb5?style=for-the-badge&labelColor=1a1a2e)
-![Internships](https://img.shields.io/badge/Internships-2-9b5de5?style=for-the-badge&labelColor=1a1a2e)
-![Projects](https://img.shields.io/badge/Projects-4-00bbf9?style=for-the-badge&labelColor=1a1a2e)
-
-</div>
+- 🎓 B.Tech in **Artificial Intelligence and Data Science**, Sree Sastha Institute of Engineering and Technology (2022–2026)
+- 📊 Practical experience in **SQL, Python, Power BI, MS Excel and DAX** through internships and academic projects
+- 💼 Currently seeking **Entry-level Data Analyst / Business Analyst** roles
+- 🌱 Actively building expertise in **KPI Dashboarding, EDA, Data Visualization and Data Storytelling**
+- ⚡ Fun fact: I enjoy turning messy spreadsheets into dashboards that actually make sense
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Tech Stack
 
-```text
-> name       : Kugan J
-> role       : Data Analyst/ Business Analyst (Fresher)
-> education  : B.Tech in Artificial Intelligence and Data Science
-> location   : Chennai, India
-> loves      : Turning raw data into simple dashboards and insights
-> status     : 🟢 Open to work
-```
+**Programming & Querying**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-I have done **2 internships** (Data Analytics and Machine Learning) and built dashboards that show clear business insights using **SQL, Power BI and Python**.
+**Visualisation**
+<p>
+  📊 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+   <img src="https://img.shields.io/badge/DAX-FF6F00?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Power%20Query-1A73E8?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Dashboard%20Development-8E44AD?style=flat-square&logoColor=white"/>
+</p>
 
----
+**Analytics**
+<p>
+  🔍 <img src="https://img.shields.io/badge/EDA-2980B9?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Data%20Preprocessing-16A085?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Data%20Cleaning-16A085?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Data%20PVisualization-16A085?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/KPI%20Reporting-E67E22?style=flat-square&logoColor=white"/>
+</p>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-| 🧩 Area | ⚡ Skills |
-|---|---|
-| 🗄️ **SQL & Databases** | MySQL, Joins, Subqueries, Aggregations, Data Extraction, Data Cleaning, Data Validation |
-| 📈 **BI & Reporting** | Power BI, DAX, Power Query, Data Modelling, KPI Reporting, Advanced Excel, Data Visualization |
-| 🐍 **Python & AI/ML** | Pandas, NumPy, Matplotlib, EDA, Machine Learning, NLP, Scikit-Learn, OpenAI API |
-| 🎯 **Business Skills** | Data Accuracy, Reporting Documentation, Attention to Detail, Business Insights |
+**AI & ML**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
-## 💼 Experience
+### 💼 Internship Experience
 
-### 📈 Data Analytics Intern | Pratinik Infotech `Feb 2026 – Apr 2026`
-- Loaded **4K website traffic records** into MySQL and validated data quality (**0 nulls, 0 duplicates**)
-- Used **SQL** to analyse traffic sources, campaigns and monthly trends
-- Built an interactive **Power BI dashboard** with a date table, **9 DAX measures** (MoM %, sessions-weighted bounce rate) and **6 KPI cards**
-- Documented the data model, measures and findings
+**Data Analytics Intern** | Pratinik Infotech — *Feb 2026 – Apr 2026*
+• Analyzed sales and customer data across 3 regions using SQL, identified a decline in repeat purchases in one region, and submitted the analysis to the       team. 
+• Developed an interactive Power BI dashboard using DAX and Power Query, consolidating data from 4 sources for KPI reporting. 
 
-### 🤖 Machine Learning Intern | Pan Tech E Learning `Aug 2024 – Sep 2024`
-- Built and evaluated **2 ML models** (classification and regression) using Pandas and Scikit-Learn
-- Handled missing values and compared algorithms using accuracy, precision and recall
+**Machine Learning Intern** | Pan Tech E Learning — *Aug 2024 – Sep 2024*
+• Built and evaluated 2 machine learning models (classification and regression) in Python using Pandas and Scikit-Learn, with preprocessing that included      missing-value handling. 
+• Compared algorithms using accuracy, precision, and recall to select the best-performing classification model.
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Website Traffic Analysis
-`MySQL` `SQL` `Power BI` `DAX`
-
-📌 12K records, 6 KPI cards, 9 DAX measures
-
-💡 **Insights**
-- 📧 **Email** converts best at **7.67%**
-- 📱 **Social Media** has the highest bounce rate at **57%**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Retail Store Dashboard
-`SQL` `Power BI` `DAX` `Power Query`
-
-📌 4 stores, 3 categories, 1,650 records
-
-💡 **Insights**
-- 💰 **84.8M** sales and **833K** footfall tracked
-- 🔌 **Electronics** drove about **84.5%** of sales
-- 📉 **74%** records were below average sales
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Netflix Content Trend Analysis
-`Python` `Pandas` `Matplotlib` `Excel`
-
-📌 8,807 titles, 122 countries
-
-💡 **Insights**
-- 📈 Additions peaked at **2,016 titles** in **2019**
-- 🎥 Movies are **69.6%** of the catalog
-- 🇺🇸 The **US** leads all countries
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI File Management System
-`Python` `OpenAI API` `Hugging Face` `NLP`
-
-📌 Final-Year Project
-
-💡 **Highlights**
-- 🔍 Search files using **natural language**
-- 🧬 **Semantic search** with Hugging Face embeddings
-- 🗂️ Automatic file categorization using NLP
-
-</td>
-</tr>
-</table>
+| Project | Description | Tools |
+|---|---|---|
+| 🛍️ [Retail Store Performance Dashboard](https://kugan-29.github.io/Retail-store-performance/) | 
+• Built an interactive Power BI dashboard on a MySQL database with 7 DAX measures and 5 KPI cards, tracking 84.8M in sales and 833K footfall across 4 stores   and 3 categories. 
+• Analyzed 1,650 records using SQL, finding that 74% (1,221) were below average sales, footfall had almost no relationship with sales, and Electronics drove   about 84.5% of total sales.  | Power BI, SQL, DAX |
+| 🎬 [Netflix Content Trend Analysis](https://kugan-29.github.io/Netflix-trend-analysis-dashboard/) |
+• Cleaned and analyzed 8,807 Netflix titles across 122 countries using Python (Pandas, Matplotlib), filling missing values in 4 columns and correcting 3       misplaced duration values, and built an Excel dashboard with KPI cards and charts. 
+• Found that additions peaked at 2,016 titles in 2019, Movies made up 69.6% of the catalog, and the US led all countries.  | Python, Pandas, Excel |
+| 🤖 [AI-Powered File Management System](https://github.com/kugan-29/llm-file-management-system) | 
+• Developed an AI-powered file management system in Python that replaces keyword search with natural language queries, using the OpenAI API for query          understanding. 
+• Implemented semantic search with Hugging Face embeddings and automatic file categorization using NLP.  | Python, OpenAI API, Hugging Face |
 
 ---
 
-## 🏆 Certifications
+### 📜 Certifications
 
-<div align="center">
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google-Analytics_Certified-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft_%26_LinkedIn-Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-</div>
+- Google Cloud Data Analytics Certification — Google Cloud
+- Google Analytics Certification — Google Skills Build
+- Career Essentials in Data Analysis — Microsoft & LinkedIn Learning
+- SQL and Relational Databases 101 — IBM SkillsBuild
 
 ---
 
-## 🎓 Education
+### 📈 GitHub Stats
 
-🎓 **B.Tech in Artificial Intelligence and Data Science** (Nov 2022 – May 2026)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kugan-29&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kugan-29" height="165"/>
+</p>
 
-🏫 Sree Sastha Institute of Engineering and Technology, Anna University, Chennai
-📘 CGPA: **7.5 / 10**
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kugan-29&theme=react-dark&bg_color=0f0c29&color=00F5D4&line=9b5de5&point=F2C811&area=true&hide_border=true" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kugan-29&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugan-29&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29" height="160"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kugan-29&layout=compact" height="165"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+### 📫 Reach Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kugan--j-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kugan-j)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kugan--29.github.io-9b5de5?style=for-the-badge&logo=githubpages&logoColor=white)](https://kugan-29.github.io/portfolio)
-[![Gmail](https://img.shields.io/badge/Gmail-kugankarthik67@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kugankarthik67@gmail.com)
-
-<i>⭐ If you like my work, drop a star on this repo!</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
+**Kugan J**
+Data Analyst | SQL · Power BI · Excel · Python
+[LinkedIn](https://linkedin.com/in/kugan-j) · [Portfoli
