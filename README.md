@@ -24,7 +24,7 @@
 **Programming & Querying**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL(MySQL)-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 **Visualisation**
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F61?style=flat-square"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
@@ -59,8 +59,9 @@
 ### 💼 Internship Experience
 
 **Data Analytics Intern** | Pratinik Infotech — *Feb 2026 – Apr 2026*
-• Analyzed sales and customer data across 3 regions using SQL, identified a decline in repeat purchases in one region, and submitted the analysis to the       team. 
-• Developed an interactive Power BI dashboard using DAX and Power Query, consolidating data from 4 sources for KPI reporting. 
+• Designed an end-to-end analytics project: loaded 12K website traffic records into MySQL, validated data quality (0 nulls, 0 duplicates) and analysed traffic  sources, campaigns and monthly trends using SQL. 
+• Built an interactive Power BI dashboard with a date table, 9 DAX measures (including MoM % and a sessions-weighted bounce rate) and 6 KPI cards; found Email converts best (7.67%) while Social-Media has the highest bounce rate (57%). 
+• Maintained data accuracy and documented the data model, measures and findings for reporting. 
 
 **Machine Learning Intern** | Pan Tech E Learning — *Aug 2024 – Sep 2024*
 • Built and evaluated 2 machine learning models (classification and regression) in Python using Pandas and Scikit-Learn, with preprocessing that included      missing-value handling. 
@@ -89,8 +90,6 @@
 - Google Cloud Data Analytics Certification — Google Cloud
 - Google Analytics Certification — Google Skills Build
 - Career Essentials in Data Analysis — Microsoft & LinkedIn Learning
-- SQL and Relational Databases 101 — IBM SkillsBuild
-
 ---
 
 ### 📈 GitHub Stats
@@ -110,4 +109,4 @@
 
 **Kugan J**
 Data Analyst | SQL · Power BI · Excel · Python
-[LinkedIn](https://linkedin.com/in/kugan-j) · [Portfoli
+[LinkedIn](https://linkedin.com/in/kugan-j) · [Portfolio](https://kugan-29.github.io/portfolio/)
