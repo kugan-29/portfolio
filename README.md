@@ -59,7 +59,7 @@
 ### 💼 Internship Experience
 
 **Data Analytics Intern** | Pratinik Infotech — *Feb 2026 – Apr 2026*
-• Designed an end-to-end analytics project: loaded 12K website traffic records into MySQL, validated data quality (0 nulls, 0 duplicates) and analysed traffic  sources, campaigns and monthly trends using SQL. 
+• Designed an end-to-end analytics project: loaded 4K website traffic records into MySQL, validated data quality (0 nulls, 0 duplicates) and analysed traffic  sources, campaigns and monthly trends using SQL. 
 • Built an interactive Power BI dashboard with a date table, 9 DAX measures (including MoM % and a sessions-weighted bounce rate) and 6 KPI cards; found Email converts best (7.67%) while Social-Media has the highest bounce rate (57%). 
 • Maintained data accuracy and documented the data model, measures and findings for reporting. 
 
